@@ -1,2 +1,7 @@
 Hello there!
+<<<<<<< HEAD
 
+=======
+test 2
+test 3 
+>>>>>>> 13f488ec92bc4256d78673f43dcc05cbc5c57c59
